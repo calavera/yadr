@@ -354,3 +354,12 @@
 	path = vim/bundle/xsunsmile-showmarks
 	url = https://github.com/xsunsmile/showmarks.git
   ignore = dirty
+[submodule "vim/bundle/rodjek-vim-puppet"]
+	path = vim/bundle/rodjek-vim-puppet
+	url = https://github.com/rodjek/vim-puppet
+[submodule "vim/bundle/git:--github.com-tpope-vim-dispatch"]
+	path = vim/bundle/git:--github.com-tpope-vim-dispatch
+	url = git://github.com/tpope/vim-dispatch.git
+[submodule "vim/bundle/thiderman-nginx-vim-syntax"]
+	path = vim/bundle/thiderman-nginx-vim-syntax
+	url = https://github.com/thiderman/nginx-vim-syntax.git
